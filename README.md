@@ -49,6 +49,11 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+**Design & UI:**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+
 <!--
 **bibiception/bibiception** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
