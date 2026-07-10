@@ -9,7 +9,7 @@
 * 🎨 Passionate about **UX/UI Design and Front-end development**, applying a strong eye for visual aesthetics to build beautiful and intuitive user experiences.
 * 📊 Highly focused on **Data** and **Cloud Computing**, constantly looking to understand the infrastructure behind complete solutions.
 * ☁️ Proudly serving as an **AWS Student Builder Group Leader**, fostering a local community around cloud technologies!
-* 🌍 Languages: English (Fluent), French (Learning), and Portuguese (Native).
+* 🌍 Languages: 🇺🇸English (Fluent), 🇫🇷French (Learning), and 🇧🇷Portuguese (Native).
 
 ---
 
